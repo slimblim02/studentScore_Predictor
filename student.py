@@ -29,7 +29,6 @@ st.dataframe(df, use_container_width = True)
 st.sidebar.image('pngwing.com (2).png', caption = 'Welcome Dear User')
 age = st.sidebar.number_input('age', )
 
-st.sidebar.write(age) #...     To capture what the person input
 health = st.sidebar.number_input('Health', )
 age = st.sidebar.number_input('Age')
 Mjob = st.sidebar.selectbox('Mothers Job', df['Mjob'].unique())
