@@ -1,12 +1,12 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
-import plotly.express as px
-import sklearn
+# import seaborn as sns
+# import matplotlib.pyplot as plt
+# import plotly.express as px
+# import sklearn
 import warnings
 warnings.filterwarnings('ignore')
-from xgboost import XGBRegressor
+# from xgboost import XGBRegressor
 import streamlit as st
 import joblib
 import pickle
