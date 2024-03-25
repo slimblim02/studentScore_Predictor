@@ -12,9 +12,9 @@ The problem at hand is the need to develop a machine learning model capable of a
 
 The primary goal of this project is to develop a robust machine learning model for predicting student grades with a high degree of accuracy. To achieve this overarching goal, the following specific objectives have been identified:
 
-Data Collection and Preprocessing: Gather relevant data from various sources including student records, demographic information, socio-economic data, and academic performance metrics. Preprocess the data to handle missing values, outliers, and ensure consistency and quality.
+Data Collection and Preprocessing: Gather relevant data from various sources including student records, demographic information, socio-economic data, and academic performance metrics. Preprocess the data to handle missing values, and ensure consistency and quality.
 
-Feature Selection and Engineering: Identify the most informative features for predicting student grades and perform feature engineering to create new variables that may enhance the predictive power of the model.
+Feature Selection: Identify the most informative features for predicting student grades.
 
 Model Development and Evaluation: Build and fine-tune machine learning models using appropriate algorithms such as regression, classification, or ensemble methods. Evaluate the performance of the models using metrics like accuracy, precision, recall, and F1-score, ensuring that they meet the desired standards of reliability and validity.
 
